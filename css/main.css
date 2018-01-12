@@ -356,7 +356,7 @@ header .social li a{
 }
 
 .bg-3{
-	background-image: url("../images/WS-2.JPG");
+	background-image: url("../images/WS-2.jpg");
 	background-size: cover;
 	-o-background-size: cover;
 	 -moz-background-size: cover;
@@ -791,19 +791,19 @@ header .social li a{
 /*-- counter_up css
 ======================================== --*/
 .counter_up{
-	background: #ffffff url("../images/WS-3.JPG") center center no-repeat;
+	background: #ffffff url("../images/WS-3.jpg") center center no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
 }
 
 .counter_up2{
-	background: #ffffff url("../images/WS-1.JPG") center center no-repeat;
+	background: #ffffff url("../images/WS-1.jpg") center center no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
 }
 
 .counter_up3{
-	background: #ffffff url("../images/WS-5.JPG") center center no-repeat;
+	background: #ffffff url("../images/WS-5.jpg") center center no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
 }
