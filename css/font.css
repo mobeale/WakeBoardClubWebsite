@@ -1,0 +1,16 @@
+
+@font-face {
+    font-family: 'WC Mano Negra Bta';
+    src: url('WCManoNegraBta-Bold.woff2') format('woff2'),
+        url('WCManoNegraBta-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'WC Mano Negra Bta';
+    src: url('WCManoNegraBta.woff2') format('woff2'),
+        url('WCManoNegraBta.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
