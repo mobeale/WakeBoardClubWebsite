@@ -164,13 +164,13 @@ p{
 .tb-preloader-wave:after {
 	position: absolute;
 	display: inline-block;
-	width: 60px;
-	height: 60px;
+	width: 100px;
+	height: 100px;
 	content: "";
 	-webkit-animation: preloader-wave 1.6s linear infinite;
 	animation: preloader-wave 1.6s linear infinite;
 	border-radius: 50%;
-	background: #222;
+	background: #61a4d6;
 }
 .tb-preloader-wave:after {
 	-webkit-animation-delay: -.8s;
